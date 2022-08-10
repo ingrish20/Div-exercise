@@ -1,0 +1,15 @@
+body {
+    align-items: center;
+}
+div {
+    border-color: red;
+    border-style: double;
+    border-width: 5px;
+
+    padding: 10px;
+
+    width: 300px;
+
+    
+}
+
